@@ -169,16 +169,14 @@ George Skiadopoulos
 <details class="mt-1">
 <summary>Abstract</summary>
 <p>
-We examine whether various dimensions of corporate labor misconduct risk is priced in the cross-section of U.S.
-corporate bond returns over 2007–2024. We employ Politis and Skiadopoulos, 2026, textual firm-level measures of
-corporate labor misconduct risk and transaction-based bond returns from Enhanced TRACE. Univariate portfolio sorts and
-bond-level cross-sectional regressions yield no evidence for labor risks to be priced. On the other hand, bivariate
-portfolio sorts identify that risks stemming from employment discrimination are priced among financially constrained,
-small with greater probability to default firms. However, the evidence vanishes when portfolios are formed within
-industries, while workplace safety risk turn out to be priced among financially constrained issuers. Our findings
-indicate that investors assess labor risks differently relative to the operating conditions of each industry. Overall,
-the evidence provides limited support for a pervasive labor risk premium, but suggests a workplace safety premium among
-financially constrained issuers.
+We examine whether corporate labor misconduct risk is priced in the cross-section of U.S. corporate bond returns over
+2007–2024. Using the firm-level textual measures of \textcite{Politis_Skiadopoulos_2026} and transaction-based bond
+returns from Enhanced TRACE, we find no evidence of a pervasive labor risk premium in univariate portfolio sorts or
+bond-level cross-sectional regressions. Bivariate sorts reveal a premium associated with employment discrimination risk
+among financially vulnerable issuers, however, this result disappears when portfolios are formed within industries.
+Overall our findings provide limited evidence that labor misconduct risk is broadly priced in corporate bond markets,
+while suggesting that its pricing may depend on the dimension of labor risk, the financial vulnerability of issuers,
+and whether risk is measured across the overall market or relative to industry peers.
 </p>
 <ul>
 </ul>
