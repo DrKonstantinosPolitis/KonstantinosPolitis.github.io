@@ -11,7 +11,7 @@ toc: false
 ![](images/cover_photo.jpg){.profile-photo}
 
 <div class="name">
-Konstantinos-Stavros Politis
+Konstantinos S. Politis
 </div>
 
 <div class="affiliation">
