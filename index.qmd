@@ -39,7 +39,7 @@ University of Piraeus, Greece
 </div>
 
 <div class="CV">
-  <a href="CV/CV_Konstantinos_Stavros_Politis_20261015.pdf" target="_blank"> CV </a>
+  <a href="CV/CV_Konstantinos_Stavros_Politis_20261016.pdf" target="_blank"> CV </a>
 </div>
 
 
