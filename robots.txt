@@ -1,1 +1,1 @@
-Sitemap: https://KonstantinosPolitis.github.io/academicwebsite/sitemap.xml
+Sitemap: https://KonstantinosPolitis.github.io/website/sitemap.xml
