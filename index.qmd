@@ -39,7 +39,7 @@ University of Piraeus, Greece
 </div>
 
 <div class="CV">
-  <a href="CV/CV_Konstantinos_Stavros_Politis_20261016.pdf" target="_blank"> CV </a>
+  <a href="CV/CV_Konstantinos_Stavros_Politis_20261027.pdf" target="_blank"> CV </a>
 </div>
 
 
@@ -54,7 +54,7 @@ with a particular focus on how corporate labor misconduct is reflected in financ
 
 I have worked as a Research Assistant at the <a href="https://www.kep.unipi.gr" target="_blank">
 University of Piraeus Research Centre </a> on the project "Informational content of market option prices"
-funded by the Hellenic Foundation of Research and Innovation (HRFI/ELIDEK). Prior to my doctoral studies, I gained industry experience in consulting and shipping,
+funded by the Hellenic Foundation of Research and Innovation (HFRI/ELIDEK). Prior to my doctoral studies, I gained industry experience in consulting and shipping,
 working at <a href="https://www.pwc.com/" target="_blank">PwC</a>, TMS Bunkers, and Seacharm Navigation.
 
 I will be on the 2026-27 academic job market. Please feel free to reach out if you would like to discuss my research or
